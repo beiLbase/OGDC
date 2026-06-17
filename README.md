@@ -2,9 +2,12 @@
 
 ##  Task 
 
-adopting a query-set gaussian distribution calibration mechanism on FSRE task 
 
-generating pseudo samples to augment the support set and calibrate the prototypical network
+
+
+
+- <span style="font-size: 20px; font-weight: bold;">dadopting a query-set gaussian distribution calibration mechanism on FSRE task </span>
+- <span style="font-size: 20px; font-weight: bold;">generating pseudo samples to augment the support set and calibrate the prototypical network</span>
 
 
 ##  Acknowledgements
