@@ -1,18 +1,18 @@
-Few-Shot Relation Extraction with Prototypical Network Optimized by Gaussian Distribution Calibration (OGDC) 
+##  Few-Shot Relation Extraction with Prototypical Network Optimized by Gaussian Distribution Calibration (OGDC) 
 
-Task 
+##  Task 
 
 adopting a query-set gaussian distribution calibration mechanism on FSRE task 
 
 generating pseudo samples to augment the support set and calibrate the prototypical network
 
 
-Acknowledgements
+##  Acknowledgements
 
 This repository contains the implementation of OGDC, a few-shot relation extraction model developed as part of my doctor's dissertation. The model employs a distribution estimation strategy based on query instances to calculate the mean vector and covariance matrix of the query instances, and uses the instance information in the query set to calibrate the data distribution of the support set accordingly. Furthermore, this method uses the calibrated query set data to generate pseudo-instances and expands the support set through data augmentation techniques, thereby generating more discriminative class prototypes.
 The related works are listed below in acknowledgment of their contributions.
 
-Related Works
+##  Related Works
 
 FewRel: A Large-Scale Supervised Few-Sample Relation Classification Dataset with State-of-the-Art Evaluation Results 
 
